@@ -1,0 +1,105 @@
+﻿Build started 04/01/2017 14:12:52.
+     1>Project "D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\TinyRay\TinyRay.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Ox /Oi /GL /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D WINDOWS /D WINDOWS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /openmp /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Box.cpp Camera.cpp Framebuffer.cpp Light.cpp Material.cpp TestApplication.cpp AppWindow.cpp Plane.cpp Ray.cpp RayTracer.cpp Scene.cpp Sphere.cpp TinyRayMain.cpp Triangle.cpp Vector3.cpp
+         Box.cpp
+     1>Box.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Box.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         Camera.cpp
+     1>Camera.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Camera.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         Framebuffer.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         Light.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>Light.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Light.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         Material.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         TestApplication.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         AppWindow.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+         Plane.cpp
+     1>Plane.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         Ray.cpp
+         RayTracer.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>RayTracer.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     1>RayTracer.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>RayTracer.cpp(178): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(202): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(204): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(208): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(212): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(226): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>RayTracer.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>RayTracer.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>RayTracer.cpp(268): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>RayTracer.cpp(304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+         Scene.cpp
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>d:\ryan lewin\uni\graphics 1\tinyray2 - copy\tinyray\tinyray\Material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>Scene.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>Scene.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>Scene.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>Scene.cpp(138): warning C4305: 'argument': truncation from 'double' to 'float'
+         Sphere.cpp
+     1>Sphere.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Sphere.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         TinyRayMain.cpp
+         Triangle.cpp
+     1>Triangle.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+         Vector3.cpp
+     1>Vector3.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+     1>Vector3.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>Vector3.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>Vector3.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Release\TinyRay.res" TinyRay.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\x64\Release\TinyRay.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\x64\Release\TinyRay.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\x64\Release\TinyRay.lib" /MACHINE:X64 x64\Release\TinyRay.res
+         x64\Release\Box.obj
+         x64\Release\Camera.obj
+         x64\Release\Framebuffer.obj
+         x64\Release\Light.obj
+         x64\Release\Material.obj
+         x64\Release\TestApplication.obj
+         x64\Release\AppWindow.obj
+         x64\Release\Plane.obj
+         x64\Release\Ray.obj
+         x64\Release\RayTracer.obj
+         x64\Release\Scene.obj
+         x64\Release\Sphere.obj
+         x64\Release\TinyRayMain.obj
+         x64\Release\Triangle.obj
+         x64\Release\Vector3.obj
+         Generating code
+         421 of 424 functions (99.3%) were compiled, the rest were copied from previous compilation.
+           3 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         TinyRay.vcxproj -> D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\x64\Release\TinyRay.exe
+     1>Done Building Project "D:\Ryan Lewin\Uni\Graphics 1\TinyRay2 - Copy\TinyRay\TinyRay\TinyRay.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.36

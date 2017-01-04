@@ -1,0 +1,67 @@
+﻿  Vector3.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\vector3.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\vector3.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\vector3.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\vector3.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\triangle.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TinyRayMain.cpp
+  Sphere.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\sphere.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\sphere.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\scene.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\scene.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\scene.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\scene.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracer.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\raytracer.cpp(198): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ray.cpp
+  Plane.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\plane.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  AppWindow.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TestApplication.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Material.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Light.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\light.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\light.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Framebuffer.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Camera.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\camera.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\camera.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Box.cpp
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+t:\documents\uniwork\graphics1\tinyray\tinyray\tinyray\box.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  TinyRay.vcxproj -> T:\Documents\UniWork\Graphics1\TinyRay\TinyRay\x64\Debug\TinyRay.exe
+  TinyRay.vcxproj -> T:\Documents\UniWork\Graphics1\TinyRay\TinyRay\x64\Debug\TinyRay.pdb (Full PDB)
